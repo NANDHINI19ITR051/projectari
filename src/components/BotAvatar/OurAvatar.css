@@ -1,0 +1,12 @@
+.Ari-bot-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+    background-color: #f47221;
+    color: white;
+    margin-left: 15px;
+}

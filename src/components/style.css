@@ -1,0 +1,14 @@
+.chatbot-container {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.chatbot-button {
+  margin: 5px;
+    border-radius: 25px;
+    padding: 8px;
+    border-color: #f47221;
+    background: transparent;
+    text-align: center;
+}
